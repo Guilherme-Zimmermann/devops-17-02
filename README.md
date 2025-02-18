@@ -15,3 +15,12 @@
 - Automação: redução de processos manuais e repetitivos.
 - Entrega contínua: desenvolvimento, testes e implementação frequentes.
 - Monitoramento contínuo: análise de performance e detecção de falhas em tempo real.
+
+## Ferramentas
+
+1. Controle de versão: Git, Github Actions, GitLab CI/CD.
+2. Integração contínua: Jenkins, Github Actions, GitLab CI/CD.
+3. Gerenciamento de configuração: Ansible, Duppet, Chef.
+4. Monitoramento e Logging: Prometheus, Grafana, Elk Stack.
+5. Orquestração e contêinerização: Docker.
+6. Infra como código: Terraform.
